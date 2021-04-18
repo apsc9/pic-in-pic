@@ -1,1 +1,1 @@
-# pic-in-pic
+This is a demo of picture-in-picture mode which is a common feature for most of the streaming platforms today. Besides the video , you can also add the other currently open files or tabs in this mode.
